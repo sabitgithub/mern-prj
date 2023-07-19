@@ -10,3 +10,20 @@ Set up a MongoDB database: MongoDB is a NoSQL database that works well with Node
 Create a new project: Open your terminal or command prompt and create a new directory for your project. Navigate to the project directory.
 
 Initialize a new Node.js project:
+
+
+***************************
+mongoDB:
+username => mernprj
+password => Um8f9lrQk6f2pr7Y
+***************************
+
+1. Check Node [ node -v]
+2. install react app [npx create-react-app mern-prj]
+3. Create folder backend and go there
+4. command npm init -y
+5. npm install express cors mongoose dotenv
+6. npm install -g nodemon
+7. create server.js file and add connections and others.
+    note: make sure database network access is concrete or for all ip access.
+8. 
