@@ -14,8 +14,8 @@ Initialize a new Node.js project:
 
 ***************************
 mongoDB:
-username => mernprj
-password => Um8f9lrQk6f2pr7Y
+username => learnsabit
+password => 2vYf6zGHDGXFrq1L
 ***************************
 
 1. Check Node [ node -v]
