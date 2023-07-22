@@ -12,11 +12,6 @@ Create a new project: Open your terminal or command prompt and create a new dire
 Initialize a new Node.js project:
 
 
-***************************
-mongoDB:
-username => learnsabit
-password => 2vYf6zGHDGXFrq1L
-***************************
 
 1. Check Node [ node -v]
 2. install react app [npx create-react-app mern-prj]
